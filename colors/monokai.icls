@@ -770,6 +770,13 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+        <option name="BACKGROUND" value="272822" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff4841" />
