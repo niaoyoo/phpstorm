@@ -11,8 +11,6 @@
   <codeStyleSettings language="PHP">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
-    <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
 </code_scheme>
