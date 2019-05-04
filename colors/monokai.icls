@@ -738,6 +738,7 @@
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_DOC_COMMENT_ID">
