@@ -39,4 +39,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="*" value="*&#10;* $NAME${CARET}&#10;&#10; * @Param $param$&#10;* @author NiaoYoo &lt;email@niaoyoo.com&gt;&#10;* @date ${DATE} ${TIME}&#10;${THROWS_DOC}&#10;**/" description="PHP Function Doc Comment" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="phpQualifiedClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="blockCommentEnd()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
