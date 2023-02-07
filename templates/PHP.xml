@@ -1,11 +1,4 @@
 <templateSet group="PHP">
-  <template name="public" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="public function" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
   <template name="func" value="function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="function" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
@@ -47,5 +40,10 @@
     <context>
       <option name="PHP" value="true" />
     </context>
+  </template>
+  <template name="pubf" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="public function" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
