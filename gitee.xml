@@ -1,0 +1,7 @@
+<application>
+  <component name="GiteeAccounts">
+    <account name="win06" id="d5ea27a2-7723-4e54-ad72-803d76b1efbb">
+      <Server host="gitee.com" />
+    </account>
+  </component>
+</application>
