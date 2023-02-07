@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="18">
-    <extensionMap>
-      <mapping pattern=".env_yao28" type=".env file" />
-      <mapping pattern=".env.yao28" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
