@@ -1,0 +1,3 @@
+<templateSet group="Common">
+  <template name="&lt;abbreviation&gt;" value="1" description="1" toReformat="false" toShortenFQNames="true" />
+</templateSet>
