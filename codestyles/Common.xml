@@ -85,5 +85,8 @@
       <option name="TAB_SIZE" value="2" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
+    <arrangement>
+      <groups />
+    </arrangement>
   </codeStyleSettings>
 </code_scheme>
