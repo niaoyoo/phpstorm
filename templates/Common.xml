@@ -27,7 +27,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="public" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="public funtion" toReformat="false" toShortenFQNames="true">
+  <template name="public" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="public funtion" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
