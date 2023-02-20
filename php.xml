@@ -1,0 +1,7 @@
+<application>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="escapeSymbolsInStringLiterals" value="true" />
+    <option name="replaceUnnecessaryDoubleQuotes" value="true" />
+    <option name="selectVariableNameWithoutDollar" value="true" />
+  </component>
+</application>
